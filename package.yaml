@@ -1,0 +1,9 @@
+name: networq:git
+description: Git types and nodes
+license: MIT
+
+widgets:
+  gitRepositoryProperties:
+    type: networq:git:repository
+    hook: properties
+    label: Repository properties

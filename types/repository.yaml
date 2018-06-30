@@ -1,0 +1,11 @@
+name: repository
+
+icon: library
+
+fields:
+  url:
+    type: string
+  visibility:
+    type: string
+  license:
+    type: string
